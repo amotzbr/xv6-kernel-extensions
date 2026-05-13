@@ -5,7 +5,7 @@ Each folder contains only the files I added or modified — not the full XV6 sou
 
 | Project | Description |
 |---|---|
-| [ps-syscall](./ps-syscall) | Added `cps126` system call — a `ps`-like command listing all running processes |
+| [ps-syscall](./ps-syscall) | Added `cps126` system call - a `ps`-like command listing all running processes |
 | [extended-syscalls](./extended-syscalls) | Added `usleep`, `ioctl`, `getppid`, `getcpu`, `getmem`, `kmemtest` system calls |
 | [mount-namespaces](./mount-namespaces) | Implemented mount namespaces in the kernel — the mechanism behind container isolation |
 

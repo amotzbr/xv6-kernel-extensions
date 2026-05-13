@@ -11,4 +11,4 @@ Each folder contains only the files I added or modified — not the full XV6 sou
 
 ## What is XV6?
 XV6 is a real Unix kernel (based on Unix V6) developed at MIT for teaching operating systems.
-Working in XV6 means writing C code that runs directly in kernel space — managing processes, memory, and system calls.
+Working in XV6 means writing C code that runs directly in kernel space - managing processes, memory, and system calls.

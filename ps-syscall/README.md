@@ -7,6 +7,6 @@ similar to the Unix `ps` command.
 - `proc.c` - kernel implementation of `cps126()`
 - `sysproc.c` - `sys_cps126` syscall handler
 - `syscall.c` - syscall dispatch table
-- `user.h` / `usys.S` — user-space interface
+- `user.h` / `usys.S` - user-space interface
 - `defs.h` - kernel function declarations
 - `ps.c` - user-space program that calls the syscall

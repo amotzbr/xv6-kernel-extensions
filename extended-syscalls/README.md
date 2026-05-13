@@ -1,4 +1,4 @@
-# Extended Syscalls — XV6
+# Extended Syscalls - XV6
 
 Added multiple system calls to the XV6 kernel:
 
